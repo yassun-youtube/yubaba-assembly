@@ -8,7 +8,16 @@
 [軽い気持ちでアセンブリで湯婆婆したらかなり大変だった件](https://qiita.com/yassun-youtube/items/9b7038bc6f83f75161db)
 https://qiita.com/yassun-youtube/items/9b7038bc6f83f75161db
 
+
 # 実行方法
+
+## Macにnasmをインストール
+
+```
+brew install nasm
+```
+
+## 実行
 
 ```
 sh assemble.sh
